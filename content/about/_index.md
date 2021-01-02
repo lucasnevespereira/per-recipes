@@ -5,7 +5,9 @@ title = "Sobre"
 +++
 As **Receitas dos Pereiras** é um site familiar para partilhar as nossas receitas.
 
-A família Pereira residente em Portugal 🇵🇹 é uma família conhecida pela sua cozinha de qualidade, que seja _entradas, pratos principais ou sobremesas_. Tudo o necessário para uma refeição completa em família.  
+A família Pereira residente em Portugal 🇵🇹 é uma família conhecida pela sua cozinha de qualidade, que seja _entradas, pratos principais ou sobremesas_.
+
+Tudo o necessário para uma refeição completa em família.  
 
 A nossa cozinha contém alguns talentos : 
 
@@ -17,4 +19,4 @@ Para comprovar a qualidade dos nossos cozinhados, temos entre os nossos clientes
 
 ***
 
-Para mais informações ou para sugestões sobre est site pode contactar-me [aqui](mailto:pereiraneveslucas@gmail.com)
+Para mais informações ou para sugestões sobre est site pode contactar-me [aqui](mailto:pereiraneveslucas@gmail.com).
