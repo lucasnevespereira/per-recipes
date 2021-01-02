@@ -1,6 +1,6 @@
 +++
 date = 2016-11-05T15:35:33Z
-title = "Sobre"
+title = "A nossa história"
 
 +++
 As **Receitas dos Pereiras** é um site familiar para partilhar as nossas receitas.
