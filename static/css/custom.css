@@ -6,3 +6,11 @@
   height: 300px;
   margin-bottom: 20px;
 }
+
+.content-column-content p {
+  color: black;
+}
+
+.content-column-content li {
+  color: black;
+}

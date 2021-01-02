@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy; Receitas dos Pereiras"
   sidebarAbout = [
-    "Encontre aqui as receitas da família Pereira",
+    "Receitas da família Pereira",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -46,7 +46,7 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "Sobre"
+  name = "A Nossa História"
   url = "about/"
 
   [params.social]
