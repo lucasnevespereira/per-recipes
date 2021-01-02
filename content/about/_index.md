@@ -9,10 +9,11 @@ A família Pereira residente em Portugal 🇵🇹 é uma família conhecida pela
 
 Tudo o necessário para uma refeição completa em família.
 
-A nossa cozinha contém alguns talentos :  
-**Idalina Pereira** - _Chef de Cozinha  
-_**Jorge Pereira** - _Especialidade em Grelhados  
-_**Júlia e Gina Pereira** - _Especialidade em Sobremesas_
+A nossa cozinha contém alguns talentos :
+
+* **Idalina Pereira** - _Chef de Cozinha_
+* **Jorge Pereira** - _Especialidade em Grelhados_
+* **Júlia e Gina Pereira** - _Especialidade em Sobremesas_
 
 Para comprovar a qualidade dos nossos cozinhados, temos entre os nossos clientes preferidos os **filhos, netos e amigos.**
 
