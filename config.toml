@@ -12,10 +12,8 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy; Receitas dos Pereiras"
-  sidebarAbout = [
-    "Receitas da família Pereira",
-  ]
+  copyright = "&copy; 2020 Receitas dos Pereiras"
+
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
