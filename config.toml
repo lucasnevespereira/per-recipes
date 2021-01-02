@@ -49,11 +49,6 @@ googleAnalytics = ""
   name = "Sobre"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "Contacto"
-  url = "contact/"
-
-
   [params.social]
   facebook      = "full page or profile url in facebook"
   googleplus    = "full profile url in googleplus"
