@@ -28,7 +28,8 @@ Esta é a receita dos Coscorões da Avó Julia da Reixida.
 4. Juntar a calda, os ovos inteiros, a farinha e mexer bem. (_Atenção à não deixar montinhos de farinha)._
 5. Deixar repousar 30 minutos.
 6. Estender a massa com o rolo _(massa fina)_ e cortar ao gosto _(tamanho e feitio)_.
-7. Levar ao óleo bem quente. _( Atenção a não mexer no coscorão enquanto não levantar)_. Depois com a ajuda do garfo colocar salpicos de óleo.
+7. Levar ao óleo bem quente. _( Atenção a não mexer no coscorão enquanto não levantar)_.   
+   Depois com a ajuda do garfo colocar salpicos de óleo.
 8. Após feito, retirar e levar ao açúcar com canela.
 
 **Bom Apetite** 
