@@ -32,6 +32,4 @@ Esta é a receita dos Coscorões da Avó Julia da Reixida.
    Depois com a ajuda do garfo colocar salpicos de óleo.
 8. Após feito, retirar e levar ao açúcar com canela.
 
-**  
-  
-Tenha um Bom Apetite !! 😀**
+**Tenha um Bom Apetite !!** 😀
