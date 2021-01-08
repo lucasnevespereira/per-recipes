@@ -12,12 +12,6 @@ sections:
 - type: document
   path: content/about/_index.md
   label: A nossa historia
-  match: "**/*"
-- type: directory
-  path: content/about
-  label: Sobre
-  create: all
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
