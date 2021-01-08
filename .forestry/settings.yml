@@ -9,6 +9,10 @@ sections:
   label: Receitas
   create: all
   match: "**/*"
+- type: document
+  path: content/about/_index.md
+  label: A nossa historia
+  match: "**/*"
 - type: directory
   path: content/about
   label: Sobre
