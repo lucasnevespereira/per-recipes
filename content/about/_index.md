@@ -19,4 +19,4 @@ Para comprovar a qualidade dos nossos cozinhados, temos entre os nossos clientes
 
 ***
 
-Para mais informações ou para sugestões sobre est site pode contactar-me [aqui](mailto:pereiraneveslucas@gmail.com).
+Para mais informações ou para sugestões sobre este site pode contactar-me [aqui](mailto:pereiraneveslucas@gmail.com).
