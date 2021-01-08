@@ -11,8 +11,8 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
-  copyright = "&copy; Receitas dos Pereiras"
+  description = "Receitas da Familia Pereira"
+  copyright = "Receitas dos Pereiras"
 
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
