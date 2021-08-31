@@ -30,3 +30,11 @@
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
 {{ template "_internal/google_analytics_async.html" . }}
+
+<meta property="og:title" content="{{.Site.Title}}">
+{{ with .Resources.ByType "image" }}
+  {{ range . }}
+    <meta property="og:image" content="{{ .RelPermalink }}">
+  {{ end }}
+{{ end }}
+<meta property="og:url" content="{{ .Permalink | absURL }}">
