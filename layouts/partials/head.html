@@ -2,6 +2,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 {{ with .Site.Title }}<title>{{ . }}</title>{{ end }}
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+
+<meta property="og:title" content="{{.Site.Title}}">
+<meta property="og:image" content="https://receitaspereira.netlify.app/img/logo.png">
+<meta property="og:url" content="{{ .Permalink | absURL }}">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
@@ -31,10 +36,3 @@
 {{ end }}
 {{ template "_internal/google_analytics_async.html" . }}
 
-<meta property="og:title" content="{{.Site.Title}}">
-{{ with .Resources.ByType "image" }}
-  {{ range . }}
-    <meta property="og:image" content="{{ .RelPermalink }}">
-  {{ end }}
-{{ end }}
-<meta property="og:url" content="{{ .Permalink | absURL }}">
