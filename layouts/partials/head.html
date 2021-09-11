@@ -6,6 +6,7 @@
 <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
 <meta property="og:image" content="{{ if .Params.image }}{{.Site.BaseURL}}{{.Params.image}}{{ else }}{{.Site.BaseURL}}/img/logo.png{{ end }}">
 <meta property="og:url" content="{{ .Permalink | absURL }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
