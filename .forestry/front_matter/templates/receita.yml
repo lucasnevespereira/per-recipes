@@ -2,20 +2,20 @@
 label: Receita
 hide_body: false
 fields:
-  - type: file
-    name: image
-    label: image
-  - type: boolean
-    name: showonlyimage
-    label: showonlyimage
-  - type: datetime
-    name: date
-    label: date
-  - type: text
-    name: title
-    label: title
-  - type: number
-    name: weight
-    label: weight
+- type: file
+  name: image
+  label: image
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: number
+  name: weight
+  label: weight
 pages:
-  - content/receitas/migas-da-lina.md
+- content/receitas/migas-da-lina.md
