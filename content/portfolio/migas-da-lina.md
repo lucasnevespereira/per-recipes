@@ -1,6 +1,5 @@
 +++
 date = 2021-09-10T22:00:00Z
-draft = true
 image = "/uploads/migas.jpeg"
 showonlyimage = false
 title = "Migas da Lina"
