@@ -3,10 +3,9 @@
 {{ with .Site.Title }}<title>{{ . }}</title>{{ end }}
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 
-<meta property="og:title" content="{{.Site.Title}}">
-<meta property="og:image" content="https://receitaspereira.netlify.app/img/logo.png">
+<meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta property="og:image" content="{{ if .Params.image }}{{.Site.BaseURL}}/uploads/{{.Params.image}}{{ else }}{{.Site.BaseURL}}/img/logo.png{{ end }}"
 <meta property="og:url" content="{{ .Permalink | absURL }}">
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
