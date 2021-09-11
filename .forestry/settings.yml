@@ -2,25 +2,25 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url: 
+webhook_url:
 sections:
-- type: directory
-  path: content/portfolio
-  label: Receitas
-  create: all
-  match: "**/*"
-- type: document
-  path: content/about/_index.md
-  label: A nossa historia
+  - type: directory
+    path: content/receitas
+    label: Receitas
+    create: all
+    match: "**/*"
+  - type: document
+    path: content/about/_index.md
+    label: A nossa historia
 upload_dir: static/uploads
 public_path: "/uploads"
-front_matter_path: ''
+front_matter_path: ""
 use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-  - HUGO_ENV=staging
-  - HUGO_VERSION=0.79.0
+    - HUGO_ENV=staging
+    - HUGO_VERSION=0.79.0
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
