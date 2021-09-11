@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}
+<!-- {{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }} -->
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 
 <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
