@@ -3,7 +3,7 @@ date = 2021-09-10T22:00:00Z
 image = "/uploads/migas.jpeg"
 showonlyimage = false
 title = "Migas da Lina"
-weight = nil
+weight = 1
 
 +++
 As migas da Dona Idalina são conhecidas em todo o Segodim de Baixo.
