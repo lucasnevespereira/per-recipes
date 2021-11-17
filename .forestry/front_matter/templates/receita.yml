@@ -18,4 +18,5 @@ fields:
   name: weight
   label: weight
 pages:
+- content/receitas/cookies-do-gabriel.md
 - content/receitas/migas-da-lina.md
