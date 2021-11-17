@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 image = "/uploads/cookies_gabriel.jpeg"
 showonlyimage = false
 title = "Cookies do Gabriel"
