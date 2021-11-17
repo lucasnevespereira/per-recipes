@@ -3,7 +3,7 @@ date = 2021-01-02T00:00:00Z
 image = "/uploads/coscoroes.jpeg"
 showonlyimage = false
 title = "Coscorões da Avó Julia"
-weight = 2
+weight = "3"
 
 +++
 Esta é a receita dos Coscorões da Avó Julia da Reixida.
