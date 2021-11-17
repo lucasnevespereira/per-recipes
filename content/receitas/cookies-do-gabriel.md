@@ -3,7 +3,7 @@ date = 2021-11-16T23:00:00Z
 image = "/uploads/cookies_gabriel.jpeg"
 showonlyimage = false
 title = "Cookies do Gabriel"
-weight = nil
+weight = 1
 
 +++
 O Gabriel é o chefe mais novo da familia. E hoje ele vai partilhar a receita dos seus famosos cookies suíços.
