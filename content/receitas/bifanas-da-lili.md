@@ -1,6 +1,6 @@
 +++
 date = 2021-11-27T23:00:00Z
-image = "/uploads/bifanas_full.jpeg"
+image = "/uploads/bifanas_full2.jpeg"
 showonlyimage = false
 title = "Bifanas da Lili"
 weight = 1
