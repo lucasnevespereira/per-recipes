@@ -1,9 +1,9 @@
 +++
 date = 2021-11-27T23:00:00Z
-image = "/uploads/bifanas.jpeg"
+image = "/uploads/bifanas_1.jpeg"
 showonlyimage = false
 title = "Bifanas da Lili"
-weight = 5
+weight = 1
 
 +++
 Dizem que as bifanas da Lili são de comer de olhos fechados. Para expandir as tradições portuguesas ela vai vos partilhar a receita dela.
