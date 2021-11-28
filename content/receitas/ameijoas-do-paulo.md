@@ -3,7 +3,7 @@ date = 2021-11-27T23:00:00Z
 image = "/uploads/ameijoas-1.jpeg"
 showonlyimage = false
 title = "Amêijoas do Paulo"
-weight = 1
+weight = 2
 
 +++
 De um país quente à um país mais ou menos frio, a receita fica a mesma. O Paulo decidiu pôr isso à prova e vos partilhar uma pequena receita de Amêijoas.
