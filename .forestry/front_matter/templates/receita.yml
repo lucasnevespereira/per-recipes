@@ -18,7 +18,6 @@ fields:
   name: weight
   label: weight
 pages:
-- content/receitas/ameijoas-a-lili.md
 - content/receitas/ameijoas-do-paulo.md
 - content/receitas/cookies-do-gabriel.md
 - content/receitas/migas-da-lina.md
