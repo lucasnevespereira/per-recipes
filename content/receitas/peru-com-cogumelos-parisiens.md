@@ -1,6 +1,6 @@
 +++
 date = 2022-01-09T23:00:00Z
-image = "/uploads/bifinhos-de-peru.jpeg"
+image = "/uploads/bifinhos.jpeg"
 showonlyimage = false
 title = "Bifinhos de Peru com Cogumelos Parisiens"
 weight = 1
